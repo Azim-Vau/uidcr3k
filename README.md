@@ -64,7 +64,6 @@ $ cd uidcr3k
 $ git pull
 $ python uidcr3k.py
 ```
-#### :closed_lock_with_key: KEY PASSWORD ⁉️
 
 #### JOIN TELEGRAM GROUP <br>
 [![](https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me/mrerror69)
