@@ -51,18 +51,18 @@ CONTACT WITH <a href="https://github.com/Azim-vau"><b>MR. ERROR </a> </br><br>
 #### INSTALL TOOL ON TERMUX
 ```python
 $ apt update && apt upgrade
-$ apt install python2
-$ pip2 install mechanize lolcat
-$ pip2 install requests bs4
-$ pip2 install futures
+$ apt install python
+$ pip install mechanize lolcat
+$ pip install requests bs4
+$ pip install futures
 $ apt install git
 $ git clone https://github.com/Azim-vau/uidcr3k.git
 ```
 #### RUN SCRIPT
-```python2
+```python
 $ cd uidcr3k
 $ git pull
-$ python2 uidcr3k.py
+$ python uidcr3k.py
 ```
 #### :closed_lock_with_key: KEY PASSWORD ⁉️
 
