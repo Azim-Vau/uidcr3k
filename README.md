@@ -50,12 +50,10 @@ CONTACT WITH <a href="https://github.com/Azim-vau"><b>MR. ERROR </a> </br><br>
 
 #### INSTALL TOOL ON TERMUX
 ```python
-$ apt update && apt upgrade
-$ apt install python
-$ pip install mechanize lolcat
-$ pip install requests bs4
-$ pip install futures
-$ apt install git
+$ pkg update && pkg upgrade
+$ pkg install python
+$ pip install mechanize requests bs4
+$ pkg install git
 $ git clone https://github.com/Azim-vau/uidcr3k.git
 ```
 #### RUN SCRIPT
