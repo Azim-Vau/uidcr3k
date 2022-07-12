@@ -45,7 +45,7 @@ CONTACT WITH <a href="https://github.com/Azim-vau"><b>MR. ERROR </a> </br><br>
 
 </br>
 <p align="center">
-      FACEBOOK ACCOUNT CLONER
+      FACEBOOK RANDOM ACCOUNTS CLONER
 </p>
 
 #### INSTALL TOOL ON TERMUX
